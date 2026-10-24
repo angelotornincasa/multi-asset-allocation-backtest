@@ -1,6 +1,6 @@
 # Multi-Asset Allocation Backtest: does diversification beat one global equity ETF?
 
-A Python backtest comparing five allocation strategies against a 100% global equity benchmark, on a risk-adjusted basis and after transaction costs.
+A Python backtest comparing four allocation strategies against a 100% global equity benchmark, on a risk-adjusted basis and after transaction costs.
 
 **Main finding:** diversification reduced the maximum drawdown by roughly 7 to 15 percentage points, but its risk-adjusted advantage came from gold. Without gold, no diversified strategy beat the equity-only benchmark on Sharpe ratio, and in 2017-2026 the benchmark was the best strategy.
 
